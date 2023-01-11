@@ -66,7 +66,7 @@ namespace UOP1.StateMachine.Editor
 		private void OnLostFocus()
 		{
 			ListView listView = rootVisualElement.Q<ListView>(className: "table-list");
-			listView.onSelectionChanged -= OnListSelectionChanged;
+			listView.onSelectionChange -= OnListSelectionChanged;
 		}
 
 		private void Update()
@@ -98,15 +98,16 @@ namespace UOP1.StateMachine.Editor
 			listView.bindItem = (element, i) => ((Label)element).text = assets[i].name;
 			listView.selectionType = SelectionType.Single;
 
-			listView.onSelectionChanged -= OnListSelectionChanged;
-			listView.onSelectionChanged += OnListSelectionChanged;
+			listView.onSelectionChange -= OnListSelectionChanged;
+			listView.onSelectionChange += OnListSelectionChanged;
 
 			if (_transitionTableEditor && _transitionTableEditor.target)
 				listView.selectedIndex = System.Array.IndexOf(assets, _transitionTableEditor.target);
 		}
 
-		private void OnListSelectionChanged(List<object> list)
+		private void OnListSelectionChanged(IEnumerable<object> incomingList)
 		{
+			List<object> list = (List<object>) incomingList;
 			IMGUIContainer editor = rootVisualElement.Q<IMGUIContainer>(className: "table-editor");
 			editor.onGUIHandler = null;
 

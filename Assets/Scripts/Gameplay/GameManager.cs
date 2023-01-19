@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviour
     }
     public void PauseGame()
 	{
-        	}
+    }
     public void UnpauseGame()
     {
         _gameState.ResetToPreviousGameState(); 

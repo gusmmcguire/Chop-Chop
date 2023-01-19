@@ -111,7 +111,7 @@ public class UIManager : MonoBehaviour
 
 		_inputReader.menuPauseEvent -= OpenUIPause; // you can open UI pause menu again, if it's closed
 
-		//	Time.timeScale = 0; // Pause time
+		Time.timeScale = 0; // Pause time
 
 		_pauseScreen.SettingsScreenOpened += OpenSettingScreen;//once the UI Pause popup is open, listen to open Settings 
 		_pauseScreen.BackToMainRequested += ShowBackToMenuConfirmationPopup;//once the UI Pause popup is open, listen to back to menu button
@@ -227,6 +227,7 @@ public class UIManager : MonoBehaviour
 	}
 	void OpenInventoryScreen()
 	{
+		Time.timeScale = 0;
 		_inputReader.menuPauseEvent -= OpenUIPause; // you cant open the UI Pause again when you are in inventory  
 		_inputReader.menuUnpauseEvent -= CloseUIPause; // you can close the UI Pause popup when you are in inventory 
 
@@ -251,7 +252,7 @@ public class UIManager : MonoBehaviour
 	}
 	void CloseInventoryScreen()
 	{
-
+		Time.timeScale = 1;
 		_inputReader.menuPauseEvent += OpenUIPause; // you cant open the UI Pause again when you are in inventory  
 
 		_inputReader.menuCloseEvent -= CloseInventoryScreen;

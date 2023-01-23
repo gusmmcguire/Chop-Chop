@@ -10,7 +10,7 @@ public class LoadEventChannelSO : EventChannelBaseSO
 {
 	public UnityAction<GameSceneSO, bool> OnLoadingRequested;
 
-	public void RaiseEvent(GameSceneSO locationToLoad, bool showLoadingScreen = false)
+	public void RaiseEvent(GameSceneSO locationToLoad, bool showLoadingScreen = true)
 	{
 		if (OnLoadingRequested != null)
 		{

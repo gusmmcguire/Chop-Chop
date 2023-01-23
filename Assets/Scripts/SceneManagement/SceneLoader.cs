@@ -79,6 +79,11 @@ public class SceneLoader : MonoBehaviour
 		_sceneToLoad = locationToLoad;
 		_showLoadingScreen = showLoadingScreen;
 
+		if (_showLoadingScreen)
+		{
+			_toggleLoadingScreen.RaiseEvent(true);
+		}
+
 		//In case we are coming from the main menu, we need to load the Gameplay manager scene first
 		if (_gameplayManagerSceneInstance.Scene == null
 			|| !_gameplayManagerSceneInstance.Scene.isLoaded)
@@ -107,6 +112,11 @@ public class SceneLoader : MonoBehaviour
 		_sceneToLoad = menuToLoad;
 		_showLoadingScreen = showLoadingScreen;
 
+		if (_showLoadingScreen)
+		{
+			_toggleLoadingScreen.RaiseEvent(true);
+		}
+
 		//In case we are coming from a Location back to the main menu, we need to get rid of the persistent Gameplay manager scene
 		if (_gameplayManagerSceneInstance.Scene != null
 			&& _gameplayManagerSceneInstance.Scene.isLoaded)
@@ -120,6 +130,7 @@ public class SceneLoader : MonoBehaviour
 	/// </summary>
 	private void UnloadPreviousScene()
 	{
+		
 		if (_currentlyLoadedScene != null) //would be null if the game was started in Initialisation
 		{
 			if (_currentlyLoadedScene.sceneReference.OperationHandle.IsValid())
@@ -146,10 +157,7 @@ public class SceneLoader : MonoBehaviour
 	/// </summary>
 	private void LoadNewScene()
 	{
-		if (_showLoadingScreen)
-		{
-			_toggleLoadingScreen.RaiseEvent(true);
-		}
+		
 
 		_loadingOperationHandle = _sceneToLoad.sceneReference.LoadSceneAsync(LoadSceneMode.Additive, true, 0);
 		_loadingOperationHandle.Completed += OnNewSceneLoaded;

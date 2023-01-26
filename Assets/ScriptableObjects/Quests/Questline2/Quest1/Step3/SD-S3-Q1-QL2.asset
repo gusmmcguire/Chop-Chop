@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0c0171b565b4074a9462307824be26c, type: 3}
   m_Name: SD-S3-Q1-QL2
   m_EditorClassIdentifier: 
-  _actor: {fileID: 11400000, guid: 5e7bd0eed8324794fad1bc460c565ecb, type: 2}
+  _actor: {fileID: 11400000, guid: b8d80efffb7881e4ebeb39806d2c6d18, type: 2}
   _dialogueLines:
   - m_TableReference:
       m_TableCollectionName: Questline Dialogue
@@ -20,6 +20,8 @@ MonoBehaviour:
       m_KeyId: 0
       m_Key: L1-SD-S3-Q1-QL2
     m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   _choices:
   - _response:
       m_TableReference:
@@ -28,7 +30,9 @@ MonoBehaviour:
         m_KeyId: 20322714321281024
         m_Key: 
       m_FallbackState: 0
-    _nextDialogue: {fileID: 0}
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    _nextDialogue: {fileID: 11400000, guid: 99404bead35a9584b93c167cf080e808, type: 2}
     _actionType: 1
   - _response:
       m_TableReference:
@@ -37,6 +41,11 @@ MonoBehaviour:
         m_KeyId: 20322813445267456
         m_Key: 
       m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
     _nextDialogue: {fileID: 11400000, guid: 90aea200dfd0fc447b0e597c781aa6b0, type: 2}
     _actionType: 0
   _dialogueType: 0
+  references:
+    version: 2
+    RefIds: []

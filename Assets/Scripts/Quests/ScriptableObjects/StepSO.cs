@@ -17,23 +17,30 @@ public class StepSO : ScriptableObject
 	[Tooltip("The Character this mission will need interaction with")]
 	[SerializeField]
 	private ActorSO _actor = default;
+
 	[Tooltip("The dialogue that will be diplayed befor an action, if any")]
 	[SerializeField]
 	private DialogueDataSO _dialogueBeforeStep = default;
+
 	[Tooltip("The dialogue that will be diplayed when the step is achieved")]
 	[SerializeField]
 	private DialogueDataSO _completeDialogue = default;
+
 	[Tooltip("The dialogue that will be diplayed if the step is not achieved yet")]
 	[SerializeField]
 	private DialogueDataSO _incompleteDialogue = default;
+
 	[Tooltip("The item to check/give/reward")]
 	[SerializeField]
 	private Item _item = default;
+
 	[Tooltip("The type of the step")]
 	[SerializeField]
 	private StepType _type = default;
+
 	[SerializeField]
 	bool _isDone = false;
+
 	[SerializeField]
 	VoidEventChannelSO _endStepEvent = default;
 	public DialogueDataSO DialogueBeforeStep {
@@ -62,8 +69,8 @@ public class StepSO : ScriptableObject
 		if(_endStepEvent!=null)
 		_endStepEvent.RaiseEvent(); 
 		_isDone = true;
-
 	}
+
 	public DialogueDataSO StepToDialogue()
 	{
 		DialogueDataSO dialogueData = new DialogueDataSO();
@@ -89,16 +96,12 @@ public class StepSO : ScriptableObject
 						if (dialogueData.Choices[1].NextDialogue == null)
 							dialogueData.Choices[1].SetNextDialogue(IncompleteDialogue);
 					}
-
 				}
-
 			}
-
 		}
-
-
 		return dialogueData;
 	}
+
 #if UNITY_EDITOR
 	/// <summary>
 	/// This function is only useful for the Questline Tool in Editor to remove a Step
@@ -109,7 +112,4 @@ public class StepSO : ScriptableObject
 		return AssetDatabase.GetAssetPath(this);
 	}
 #endif
-
-
-
 }

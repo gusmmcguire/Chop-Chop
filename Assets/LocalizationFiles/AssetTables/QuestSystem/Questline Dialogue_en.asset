@@ -47,7 +47,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 47071771064393728
-    m_Localized: 'Why not? It''s an awesome experience ! Here let me do it for you. '
+    m_Localized: 'Oh... I guess I''ll have to ask life for some. '
     m_Metadata:
       m_Items: []
   - m_Id: 47067004019793920
@@ -180,11 +180,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 47073457984102400
-    m_Localized: There once was a lady named Saly
+    m_Localized: Did you get the lemons?
     m_Metadata:
       m_Items: []
   - m_Id: 47071503866257408
-    m_Localized: 'Hello again Chef! Are you here for the competition ? '
+    m_Localized: Hello again! I'm in need of some lemons.
     m_Metadata:
       m_Items: []
   - m_Id: 47099023881789440
@@ -222,12 +222,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 238002475229187
-    m_Localized: 'Can you help us defeat them ? '
+    m_Localized: 'Can you take care of them ? '
     m_Metadata:
       m_Items: []
   - m_Id: 238002475229195
-    m_Localized: 'Perfect Thank you so much ! I see you also got the special spoon
-      ! '
+    m_Localized: 'Perfect Thank you so much ! I see you also got my special spoon! '
     m_Metadata:
       m_Items: []
   - m_Id: 238002475229188
@@ -235,11 +234,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 238002475229186
-    m_Localized: Hello Welcome to the farms
+    m_Localized: Hello Welcome to the town.
     m_Metadata:
       m_Items: []
   - m_Id: 47359752132222976
-    m_Localized: 'Oh no ! they''re attacking us again !!! '
+    m_Localized: 'I''m having a slime problem. '
     m_Metadata:
       m_Items: []
   - m_Id: 47053374205321216
@@ -272,15 +271,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 47013255079387136
-    m_Localized: 'Can you please help me find some critter seeds ? '
+    m_Localized: 'Can you please slay some Slimes and bring me 3 eggs? '
     m_Metadata:
       m_Items: []
   - m_Id: 238002471034881
-    m_Localized: 'Did you find the plant critter seeds? '
+    m_Localized: 'Did you find the slime critter eggs? '
     m_Metadata:
       m_Items: []
   - m_Id: 238002416508928
-    m_Localized: Hello
+    m_Localized: Welcome back!
     m_Metadata:
       m_Items: []
   - m_Id: 238002471034880
@@ -333,8 +332,61 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 47071766836535296
-    m_Localized: 'Perfect ! I know you''re going to win ! '
+    m_Localized: Perfect! I'll be waiting.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 258753412971204608
+    m_Localized: Good luck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259109918002483200
+    m_Localized: 'Can you kill some slimes and get me 3 '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260194443088465920
+    m_Localized: Yay!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260194552115204096
+    m_Localized: Oh okay. I'll be waiting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260195493845504000
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260195701471940608
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260196598969110528
+    m_Localized: Here is some lemonade I made with those lemons!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260549436836515840
+    m_Localized: Oh, too bad...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260549427558715392
+    m_Localized: Good luck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260552516395175936
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260915151145897984
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260915420550238208
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260915696707407872
+    m_Localized: No
     m_Metadata:
       m_Items: []
   references:
-    version: 1
+    version: 2
+    RefIds: []

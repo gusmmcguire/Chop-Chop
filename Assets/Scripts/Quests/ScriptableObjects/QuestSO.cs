@@ -7,18 +7,22 @@ public class QuestSO : ScriptableObject
 {
 	[SerializeField]
 	private int _idQuest = 0;
+
 	[Tooltip("The collection of Steps composing the Quest")]
 	[SerializeField]
 	private List<StepSO> _steps = new List<StepSO>();
+
 	[SerializeField]
 	bool _isDone = false;
+
 	[SerializeField]
 	VoidEventChannelSO _endQuestEvent = default;
 
 	public int IdQuest => _idQuest;
 	public List<StepSO> Steps => _steps;
 	public bool IsDone => _isDone;
-	public VoidEventChannelSO EndQuestEvent => _endQuestEvent; 
+	public VoidEventChannelSO EndQuestEvent => _endQuestEvent;
+
 	public void FinishQuest()
 	{
 		_isDone = true;
@@ -33,6 +37,7 @@ public class QuestSO : ScriptableObject
 		_idQuest = id;
 
 	}
+
 #if UNITY_EDITOR
 	/// <summary>
 	/// This function is only useful for the Questline Tool in Editor to remove a Quest

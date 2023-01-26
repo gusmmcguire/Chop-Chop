@@ -10,8 +10,6 @@ public class QuestManagerSO : ScriptableObject
 	[SerializeField] private List<QuestlineSO> _questlines = default;
 	[SerializeField] private Inventory _inventory = default;
 
-
-
 	[Header("Linstening to channels")]
 	[SerializeField] private VoidEventChannelSO _checkStepValidityEvent = default;
 	[SerializeField] private DialogueDataChannelSO _endDialogueEvent = default;
@@ -47,34 +45,28 @@ public class QuestManagerSO : ScriptableObject
 				if (_currentQuestlineIndex >= 0)
 					_currentQuestline = _questlines.Find(o => !o.IsDone);
 			}
-
 		}
 	}
 	bool HasStep(ActorSO actorToCheckWith)
 	{
 		if (_currentStep != null)
 		{
-
 			if (_currentStep.Actor == actorToCheckWith)
 			{
 				return true;
 			}
-
 		}
 		return false;
-
 	}
+
 	bool CheckQuestlineForQuestWithActor(ActorSO actorToCheckWith)
 	{
 		if (_currentQuest == null)//check if there's a current quest 
 		{
 			if (_currentQuestline != null)
 			{
-
 				return _currentQuestline.Quests.Exists(o => !o.IsDone && o.Steps != null && o.Steps[0].Actor == actorToCheckWith);
-
 			}
-
 		}
 		return false;
 	}
@@ -87,35 +79,29 @@ public class QuestManagerSO : ScriptableObject
 			{
 				StartQuest(actor);
 			}
-
 		}
 
 		if (HasStep(actor))
 		{
 			if (isCheckValidity)
 			{
-
 				if (isValid)
 				{
 					return _currentStep.CompleteDialogue;
-
 				}
 				else
 				{
 					return _currentStep.IncompleteDialogue;
-
 				}
-
 			}
 			else
 			{
 				return _currentStep.DialogueBeforeStep;
 			}
-
 		}
 		return null;
-
 	}
+
 	//When Interacting with a character, we ask the quest manager if there's a quest that starts with a step with a certain character
 	void StartQuest(ActorSO actorToCheckWith)
 	{
@@ -148,13 +134,10 @@ public class QuestManagerSO : ScriptableObject
 			if (_currentQuest.Steps.Count > _currentStepIndex)
 			{
 				_currentStep = _currentQuest.Steps[_currentStepIndex];
-
 			}
-
 	}
 	void CheckStepValidity()
 	{
-
 		if (_currentStep != null)
 		{
 			switch (_currentStep.Type)
@@ -183,7 +166,6 @@ public class QuestManagerSO : ScriptableObject
 					{
 						//trigger lose dialogue
 						_incompleteDialogueEvent.RaiseEvent();
-
 					}
 					break;
 				case StepType.RewardItem:
@@ -202,7 +184,6 @@ public class QuestManagerSO : ScriptableObject
 					//dialogue has already been played
 					if (_currentStep.CompleteDialogue != null)
 					{
-
 						_completeDialogueEvent.RaiseEvent();
 					}
 					else
@@ -210,14 +191,12 @@ public class QuestManagerSO : ScriptableObject
 						EndStep();
 					}
 					break;
-
-
 			}
 		}
 	}
+
 	void EndDialogue(DialogueDataSO dialogue)
 	{
-
 		//depending on the dialogue that ended, do something 
 		switch (dialogue.DialogueType)
 		{
@@ -229,13 +208,11 @@ public class QuestManagerSO : ScriptableObject
 				break;
 			default:
 				break;
-
 		}
-
 	}
+
 	void EndStep()
 	{
-
 		_currentStep = null;
 
 		if (_currentQuest != null)
@@ -246,21 +223,15 @@ public class QuestManagerSO : ScriptableObject
 				{
 					_currentStepIndex++;
 					StartStep();
-
 				}
 				else
 				{
-
 					EndQuest();
 				}
 			}
-
-
-
 	}
 	void EndQuest()
 	{
-
 		if (_currentQuest != null)
 			_currentQuest.FinishQuest();
 
@@ -271,13 +242,10 @@ public class QuestManagerSO : ScriptableObject
 			if (!_currentQuestline.Quests.Exists(o => !o.IsDone))
 			{
 				EndQuestline();
-
 			}
-
 		}
-
-
 	}
+
 	void EndQuestline()
 	{
 		if (_questlines != null)
@@ -285,18 +253,13 @@ public class QuestManagerSO : ScriptableObject
 			if (_currentQuestline != null)
 			{
 				_currentQuestline.FinishQuestline();
-
 			}
 
 			if (_questlines.Exists(o => o.IsDone))
 			{
 				StartQuestline();
-
 			}
-
 		}
-
-
 	}
 }
 

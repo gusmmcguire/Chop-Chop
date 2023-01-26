@@ -18,7 +18,7 @@ MonoBehaviour:
   _completeDialogue: {fileID: 11400000, guid: e62b8585a737f2c4eb54378a8886269c, type: 2}
   _incompleteDialogue: {fileID: 11400000, guid: 473361716230ea64da50adc3c5dc5a67,
     type: 2}
-  _item: {fileID: 11400000, guid: 42396f680e5649c4b91e2b29ff34f811, type: 2}
+  _item: {fileID: 11400000, guid: 1c53a3bee1a484bc2ab70d7f4f1f0aa4, type: 2}
   _type: 1
   _isDone: 0
   _endStepEvent: {fileID: 0}

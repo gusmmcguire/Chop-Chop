@@ -15,34 +15,37 @@ MonoBehaviour:
   _actor: {fileID: 0}
   _dialogueLines:
   - m_TableReference:
-      m_TableCollectionName: Questline Dialogue
+      m_TableCollectionName: GUID:f81a49615d56c1a4fbbd14b4569b06f3
     m_TableEntryReference:
       m_KeyId: 47073457984102400
       m_Key: 
     m_FallbackState: 0
-  - m_TableReference:
-      m_TableCollectionName: GUID:f81a49615d56c1a4fbbd14b4569b06f3
-    m_TableEntryReference:
-      m_KeyId: 47073068710748160
-      m_Key: 
-    m_FallbackState: 0
-  - m_TableReference:
-      m_TableCollectionName: Questline Dialogue
-    m_TableEntryReference:
-      m_KeyId: 47073689857810432
-      m_Key: 
-    m_FallbackState: 0
-  - m_TableReference:
-      m_TableCollectionName: Questline Dialogue
-    m_TableEntryReference:
-      m_KeyId: 47074112706568192
-      m_Key: 
-    m_FallbackState: 0
-  - m_TableReference:
-      m_TableCollectionName: Questline Dialogue
-    m_TableEntryReference:
-      m_KeyId: 47074164204232704
-      m_Key: 
-    m_FallbackState: 0
-  _choices: []
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  _choices:
+  - _response:
+      m_TableReference:
+        m_TableCollectionName: GUID:f81a49615d56c1a4fbbd14b4569b06f3
+      m_TableEntryReference:
+        m_KeyId: 260195493845504000
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    _nextDialogue: {fileID: 11400000, guid: 14f5c65ee51e8b148b2f9fed4ddcfed7, type: 2}
+    _actionType: 0
+  - _response:
+      m_TableReference:
+        m_TableCollectionName: GUID:f81a49615d56c1a4fbbd14b4569b06f3
+      m_TableEntryReference:
+        m_KeyId: 260195701471940608
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    _nextDialogue: {fileID: 11400000, guid: d8075700938289949a2b5b514ac9d856, type: 2}
+    _actionType: 0
   _dialogueType: 0
+  references:
+    version: 2
+    RefIds: []

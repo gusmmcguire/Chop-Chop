@@ -3,13 +3,13 @@ using UnityEngine.Events;
 
 public class Damageable : MonoBehaviour
 {
-	[SerializeField] private HealthConfigSO _healthConfigSO;
+	[SerializeField] public HealthConfigSO _healthConfigSO;
 	[SerializeField] private GetHitEffectConfigSO _getHitEffectSO;
 	[SerializeField] private Renderer _mainMeshRenderer;
 	[SerializeField] private DroppableRewardConfigSO _droppableRewardSO;
 	public DroppableRewardConfigSO DroppableRewardConfig => _droppableRewardSO;
 
-	private int _currentHealth = default;
+	public int _currentHealth = default;
 
 	public bool GetHit { get; set; }
 	public bool IsDead { get; set; }

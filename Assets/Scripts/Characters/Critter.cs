@@ -5,6 +5,7 @@ public class Critter : MonoBehaviour
 {
 	[HideInInspector] public bool isPlayerInAlertZone;
 	[HideInInspector] public bool isPlayerInAttackZone;
+	[SerializeField] EnemyHealth HPCanvas;
 	public Damageable currentTarget; //The StateMachine evaluates its health when needed
 
 	public void OnAlertTriggerChange(bool entered, GameObject who)
@@ -13,11 +14,14 @@ public class Critter : MonoBehaviour
 
 		if (entered && who.TryGetComponent(out Damageable d))
 		{
+			HPCanvas.OnAttack();
+
 			currentTarget = d;
 			currentTarget.OnDie += OnTargetDead;
 		}
 		else
 		{
+			HPCanvas.OnIdle();
 			currentTarget = null;
 		}
 	}
@@ -33,6 +37,7 @@ public class Critter : MonoBehaviour
 	private void OnTargetDead()
 	{
 		currentTarget = null;
+		HPCanvas.OnPlayerDead();
 		isPlayerInAlertZone = false;
 		isPlayerInAttackZone = false;
 	}

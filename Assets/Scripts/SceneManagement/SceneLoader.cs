@@ -18,6 +18,7 @@ public class SceneLoader : MonoBehaviour
 	[SerializeField] private LoadEventChannelSO _loadLocation = default;
 	[SerializeField] private LoadEventChannelSO _loadMenu = default;
 	[SerializeField] private LoadEventChannelSO _coldStartupLocation = default;
+	[SerializeField] private FadeChannelSO _fadeEvent = default;
 
 	[Header("Broadcasting on")]
 	[SerializeField] private BoolEventChannelSO _toggleLoadingScreen = default;
@@ -59,7 +60,7 @@ public class SceneLoader : MonoBehaviour
 	{
 		_currentlyLoadedScene = currentlyOpenedLocation;
 
-		if(_currentlyLoadedScene.sceneType == GameSceneSO.GameSceneType.Location)
+		if (_currentlyLoadedScene.sceneType == GameSceneSO.GameSceneType.Location)
 		{
 			//Gameplay managers is loaded synchronously
 			_gameplayManagerLoadingOpHandle = _gameplayScene.sceneReference.LoadSceneAsync(LoadSceneMode.Additive, true);
@@ -79,10 +80,9 @@ public class SceneLoader : MonoBehaviour
 		_sceneToLoad = locationToLoad;
 		_showLoadingScreen = showLoadingScreen;
 
-		if (_showLoadingScreen)
-		{
-			_toggleLoadingScreen.RaiseEvent(true);
-		}
+
+		_fadeEvent.FadeOut(1f, Color.black);
+
 
 		//In case we are coming from the main menu, we need to load the Gameplay manager scene first
 		if (_gameplayManagerSceneInstance.Scene == null
@@ -93,15 +93,18 @@ public class SceneLoader : MonoBehaviour
 		}
 		else
 		{
-			UnloadPreviousScene();
+			StartCoroutine(InflateUnload());
+
+			//UnloadPreviousScene();
 		}
 	}
 
 	private void OnGameplayMangersLoaded(AsyncOperationHandle<SceneInstance> obj)
 	{
 		_gameplayManagerSceneInstance = _gameplayManagerLoadingOpHandle.Result;
+		StartCoroutine(InflateUnload());
 
-		UnloadPreviousScene();
+		//UnloadPreviousScene();
 	}
 
 	/// <summary>
@@ -111,17 +114,26 @@ public class SceneLoader : MonoBehaviour
 	{
 		_sceneToLoad = menuToLoad;
 		_showLoadingScreen = showLoadingScreen;
+		_fadeEvent.FadeOut(1f, Color.black);
 
-		if (_showLoadingScreen)
-		{
-			_toggleLoadingScreen.RaiseEvent(true);
-		}
+
 
 		//In case we are coming from a Location back to the main menu, we need to get rid of the persistent Gameplay manager scene
 		if (_gameplayManagerSceneInstance.Scene != null
 			&& _gameplayManagerSceneInstance.Scene.isLoaded)
 			Addressables.UnloadSceneAsync(_gameplayManagerLoadingOpHandle, true);
 
+		StartCoroutine(InflateUnload());
+	}
+
+	IEnumerator InflateUnload()
+	{
+		yield return new WaitForSecondsRealtime(1.1f);
+		if (_showLoadingScreen)
+		{
+			_fadeEvent.FadeIn(0);
+			_toggleLoadingScreen.RaiseEvent(true);
+		}
 		UnloadPreviousScene();
 	}
 
@@ -130,7 +142,7 @@ public class SceneLoader : MonoBehaviour
 	/// </summary>
 	private void UnloadPreviousScene()
 	{
-		
+
 		if (_currentlyLoadedScene != null) //would be null if the game was started in Initialisation
 		{
 			if (_currentlyLoadedScene.sceneReference.OperationHandle.IsValid())
@@ -149,6 +161,12 @@ public class SceneLoader : MonoBehaviour
 #endif
 		}
 
+		StartCoroutine(InflateLoad());
+	}
+
+	IEnumerator InflateLoad()
+	{
+		yield return new WaitForSecondsRealtime(1);
 		LoadNewScene();
 	}
 
@@ -157,7 +175,6 @@ public class SceneLoader : MonoBehaviour
 	/// </summary>
 	private void LoadNewScene()
 	{
-		
 
 		_loadingOperationHandle = _sceneToLoad.sceneReference.LoadSceneAsync(LoadSceneMode.Additive, true, 0);
 		_loadingOperationHandle.Completed += OnNewSceneLoaded;
@@ -167,10 +184,17 @@ public class SceneLoader : MonoBehaviour
 	{
 		//Save loaded scenes (to be unloaded at next load request)
 		_currentlyLoadedScene = _sceneToLoad;
+		StartCoroutine(InflateActive());
+	}
+
+	IEnumerator InflateActive()
+	{
+		yield return new WaitForSeconds(1);
 		SetActiveScene();
 
 		if (_showLoadingScreen)
 		{
+			_fadeEvent.FadeIn(1f);
 			_toggleLoadingScreen.RaiseEvent(false);
 		}
 	}

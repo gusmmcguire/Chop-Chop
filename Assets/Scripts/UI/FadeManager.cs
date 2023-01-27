@@ -27,7 +27,11 @@ public class FadeManager : MonoBehaviour
 	{
 		Color startColor = _imageComponent.color;
 		if (fadeIn)
+		{
+
 			endColor = Color.clear;
+			startColor.a = 1;
+		}
 
 		float totalTime = 0f;
 

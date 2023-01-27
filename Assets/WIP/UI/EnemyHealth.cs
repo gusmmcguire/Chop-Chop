@@ -49,8 +49,8 @@ public class EnemyHealth : MonoBehaviour
 
 	public void OnAttack()
 	{
-		Debug.Log("isactive");
-		//canvas.SetActive(true);
+		//Debug.Log("isactive");
+		canvas.SetActive(true);
 	}
 
 	public IEnumerator OnIdle()

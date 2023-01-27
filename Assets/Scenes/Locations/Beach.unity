@@ -209,8 +209,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &12444718 stripped
 Transform:
@@ -290,8 +289,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &13642482 stripped
 Transform:
@@ -689,8 +687,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &34917486
 PrefabInstance:
@@ -764,8 +761,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &35244187
 PrefabInstance:
@@ -839,8 +835,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &36529287 stripped
 Transform:
@@ -920,8 +915,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &39587971 stripped
 Transform:
@@ -1007,8 +1001,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &41991662
 PrefabInstance:
@@ -1082,8 +1075,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &43245881
 PrefabInstance:
@@ -1427,8 +1419,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &53145262 stripped
 Transform:
@@ -1514,8 +1505,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &61714325 stripped
 Transform:
@@ -1595,8 +1585,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &66348064
 PrefabInstance:
@@ -1670,8 +1659,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &66895061 stripped
 Transform:
@@ -1751,8 +1739,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &67872546
 PrefabInstance:
@@ -1826,8 +1813,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &70575527
 PrefabInstance:
@@ -1901,8 +1887,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &71716927 stripped
 Transform:
@@ -1988,8 +1973,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &76303927 stripped
 Transform:
@@ -2375,8 +2359,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &94176199
 PrefabInstance:
@@ -2450,8 +2433,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &99666508
 PrefabInstance:
@@ -2649,7 +2631,7 @@ Transform:
   - {fileID: 1070154313}
   - {fileID: 685716877}
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &111021037
 PrefabInstance:
@@ -2701,7 +2683,7 @@ PrefabInstance:
     - target: {fileID: 1657732992883833910, guid: 45632f0a227c860489bcba0eb1f4ec3e,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 1e-45
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1657732992883833910, guid: 45632f0a227c860489bcba0eb1f4ec3e,
         type: 3}
@@ -2741,7 +2723,7 @@ PrefabInstance:
     - target: {fileID: 2808035858438402709, guid: 45632f0a227c860489bcba0eb1f4ec3e,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -1e-45
+      value: 1e-45
       objectReference: {fileID: 0}
     - target: {fileID: 2808035858438402709, guid: 45632f0a227c860489bcba0eb1f4ec3e,
         type: 3}
@@ -2776,12 +2758,12 @@ PrefabInstance:
     - target: {fileID: 2955398947125553842, guid: 45632f0a227c860489bcba0eb1f4ec3e,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.000000016984202
+      value: -0.000000004252742
       objectReference: {fileID: 0}
     - target: {fileID: 2955398947125553842, guid: 45632f0a227c860489bcba0eb1f4ec3e,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.0000000027561569
+      value: 6.9012535e-10
       objectReference: {fileID: 0}
     - target: {fileID: 8745341640208226293, guid: 45632f0a227c860489bcba0eb1f4ec3e,
         type: 3}
@@ -3086,8 +3068,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &117406314
 PrefabInstance:
@@ -3161,8 +3142,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &120360479
 PrefabInstance:
@@ -3236,8 +3216,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &127916638 stripped
 Transform:
@@ -3317,8 +3296,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &129510545
 PrefabInstance:
@@ -3488,8 +3466,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &136083882 stripped
 Transform:
@@ -3665,8 +3642,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &143612546 stripped
 Transform:
@@ -3746,8 +3722,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &146643204
 PrefabInstance:
@@ -3821,8 +3796,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &146689102
 PrefabInstance:
@@ -3896,8 +3870,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &148714435 stripped
 Transform:
@@ -3983,8 +3956,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &155504996
 PrefabInstance:
@@ -4238,8 +4210,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &162595808
 PrefabInstance:
@@ -4313,8 +4284,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &167052137
 PrefabInstance:
@@ -4388,8 +4358,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &168715263 stripped
 Transform:
@@ -4565,8 +4534,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &185328705
 PrefabInstance:
@@ -4826,8 +4794,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &192226204
 PrefabInstance:
@@ -4991,8 +4958,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &194028846
 PrefabInstance:
@@ -5066,8 +5032,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &197368344
 PrefabInstance:
@@ -5229,7 +5194,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &199156265
 PrefabInstance:
@@ -5303,8 +5268,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &199254742
 PrefabInstance:
@@ -5468,8 +5432,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &210981047
 PrefabInstance:
@@ -5843,8 +5806,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &224750518 stripped
 Transform:
@@ -6116,8 +6078,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &230304611
 PrefabInstance:
@@ -6281,8 +6242,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &235412828 stripped
 Transform:
@@ -6362,8 +6322,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &248556751 stripped
 Transform:
@@ -6533,8 +6492,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &250108154
 PrefabInstance:
@@ -6608,8 +6566,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &252334637
 PrefabInstance:
@@ -6683,8 +6640,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &254165020 stripped
 Transform:
@@ -7214,8 +7170,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &277097343
 PrefabInstance:
@@ -7289,8 +7244,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &277673252
 PrefabInstance:
@@ -7364,8 +7318,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &284754434
 PrefabInstance:
@@ -7631,8 +7584,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &290733459 stripped
 Transform:
@@ -7808,8 +7760,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &297177706 stripped
 Transform:
@@ -7894,17 +7845,17 @@ PrefabInstance:
     - target: {fileID: 8973046805947103834, guid: 091eb08593be92a479022adb4c5341d1,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -61.57
+      value: -62.83
       objectReference: {fileID: 0}
     - target: {fileID: 8973046805947103834, guid: 091eb08593be92a479022adb4c5341d1,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.7
+      value: -4.8079157
       objectReference: {fileID: 0}
     - target: {fileID: 8973046805947103834, guid: 091eb08593be92a479022adb4c5341d1,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -360.2092
+      value: -358.87
       objectReference: {fileID: 0}
     - target: {fileID: 8973046805947103834, guid: 091eb08593be92a479022adb4c5341d1,
         type: 3}
@@ -8111,8 +8062,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &312583618
 PrefabInstance:
@@ -8372,8 +8322,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &318448641 stripped
 Transform:
@@ -8453,8 +8402,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &319104560
 PrefabInstance:
@@ -8711,8 +8659,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &331669160 stripped
 Transform:
@@ -8798,8 +8745,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &340454309
 PrefabInstance:
@@ -8975,8 +8921,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &345067512 stripped
 Transform:
@@ -9056,8 +9001,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &350466083
 PrefabInstance:
@@ -9131,8 +9075,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &351218461 stripped
 Transform:
@@ -9416,8 +9359,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &372957895 stripped
 Transform:
@@ -9497,8 +9439,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &375266805
 PrefabInstance:
@@ -9572,8 +9513,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &376652996 stripped
 Transform:
@@ -9653,8 +9593,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &380633921 stripped
 Transform:
@@ -9824,8 +9763,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &385885184
 PrefabInstance:
@@ -9899,8 +9837,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &386541959 stripped
 Transform:
@@ -9980,8 +9917,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &390952177
 PrefabInstance:
@@ -10055,8 +9991,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &391044616 stripped
 Transform:
@@ -10105,7 +10040,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &396046390
 PrefabInstance:
@@ -10179,8 +10114,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &396674390
 PrefabInstance:
@@ -10254,8 +10188,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &396801675
 PrefabInstance:
@@ -10413,8 +10346,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &398308881
 PrefabInstance:
@@ -10590,8 +10522,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &403361293
 PrefabInstance:
@@ -10665,8 +10596,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &404183291 stripped
 Transform:
@@ -10752,8 +10682,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &407369840
 PrefabInstance:
@@ -10827,8 +10756,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &408755709
 PrefabInstance:
@@ -11082,8 +11010,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &415305804
 PrefabInstance:
@@ -11157,8 +11084,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &416773639 stripped
 Transform:
@@ -11442,8 +11368,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &446192634
 PrefabInstance:
@@ -11517,8 +11442,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &446348161
 PrefabInstance:
@@ -11592,8 +11516,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &449958158 stripped
 Transform:
@@ -11888,8 +11811,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &457017359 stripped
 Transform:
@@ -11969,8 +11891,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &458625741
 PrefabInstance:
@@ -12044,8 +11965,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &462622776
 PrefabInstance:
@@ -12221,8 +12141,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &471359308
 PrefabInstance:
@@ -12386,8 +12305,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &473857008
 PrefabInstance:
@@ -12461,8 +12379,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &475247520 stripped
 Transform:
@@ -12632,8 +12549,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &481821886 stripped
 Transform:
@@ -12713,8 +12629,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &483704085 stripped
 Transform:
@@ -12794,8 +12709,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &486425029
 PrefabInstance:
@@ -12869,8 +12783,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &488184968
 PrefabInstance:
@@ -13034,8 +12947,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &494909454
 PrefabInstance:
@@ -13109,8 +13021,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &500582008
 PrefabInstance:
@@ -13184,8 +13095,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &500797744
 PrefabInstance:
@@ -13259,8 +13169,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &501450329
 PrefabInstance:
@@ -13334,8 +13243,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &502628494 stripped
 Transform:
@@ -13421,8 +13329,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &504569844 stripped
 Transform:
@@ -13508,8 +13415,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &508657216 stripped
 Transform:
@@ -13589,8 +13495,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &511012323
 PrefabInstance:
@@ -13664,8 +13569,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &513205453
 PrefabInstance:
@@ -13739,8 +13643,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &514465488
 PrefabInstance:
@@ -13904,8 +13807,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &517184739
 PrefabInstance:
@@ -13979,8 +13881,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &517529265 stripped
 Transform:
@@ -14066,8 +13967,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &524982349
 PrefabInstance:
@@ -14237,8 +14137,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &531326099
 PrefabInstance:
@@ -14312,8 +14211,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &532033650 stripped
 Transform:
@@ -14393,8 +14291,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &533796248
 PrefabInstance:
@@ -14468,8 +14365,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &535344811
 PrefabInstance:
@@ -14633,8 +14529,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &536667818
 PrefabInstance:
@@ -14708,8 +14603,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &536674861
 PrefabInstance:
@@ -15131,8 +15025,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &544892825 stripped
 Transform:
@@ -15218,8 +15111,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &548209575 stripped
 Transform:
@@ -15479,8 +15371,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &553661887
 PrefabInstance:
@@ -15554,8 +15445,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &555602114
 PrefabInstance:
@@ -15809,8 +15699,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &562514569
 PrefabInstance:
@@ -15884,8 +15773,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &563100792
 PrefabInstance:
@@ -15959,8 +15847,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &563247540
 PrefabInstance:
@@ -16412,8 +16299,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &582119577
 PrefabInstance:
@@ -16487,8 +16373,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &582858957
 PrefabInstance:
@@ -16562,8 +16447,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &583626184
 PrefabInstance:
@@ -16727,8 +16611,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &587255846
 PrefabInstance:
@@ -16802,8 +16685,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &588833707
 PrefabInstance:
@@ -16877,8 +16759,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &589960232 stripped
 Transform:
@@ -16958,8 +16839,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &596708034
 PrefabInstance:
@@ -17033,8 +16913,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &597548173 stripped
 Transform:
@@ -17114,8 +16993,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &600301544
 PrefabInstance:
@@ -17285,8 +17163,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &609213531
 PrefabInstance:
@@ -17360,8 +17237,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &610744600
 PrefabInstance:
@@ -17435,8 +17311,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &611758107 stripped
 Transform:
@@ -17516,8 +17391,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &615983014
 PrefabInstance:
@@ -17783,8 +17657,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &627272505 stripped
 Transform:
@@ -17978,8 +17851,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &645591711 stripped
 Transform:
@@ -18083,8 +17955,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &651779870
 PrefabInstance:
@@ -18158,8 +18029,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &652037458 stripped
 Transform:
@@ -18245,8 +18115,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &662127214
 PrefabInstance:
@@ -18320,8 +18189,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &666270840 stripped
 Transform:
@@ -18767,8 +18635,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &674816616
 PrefabInstance:
@@ -18932,8 +18799,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1 &678074564
 GameObject:
@@ -19214,7 +19080,7 @@ Transform:
   - {fileID: 2123566518}
   - {fileID: 1010344577}
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &682868971 stripped
 Transform:
@@ -19861,7 +19727,7 @@ Transform:
   - {fileID: 508657216}
   - {fileID: 1473620003}
   m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &698975312
 PrefabInstance:
@@ -20025,8 +19891,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &700511211
 PrefabInstance:
@@ -20100,8 +19965,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &701555660 stripped
 Transform:
@@ -20355,8 +20219,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &713981668
 PrefabInstance:
@@ -20430,8 +20293,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &714889621
 PrefabInstance:
@@ -20595,8 +20457,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &724361973 stripped
 Transform:
@@ -20766,8 +20627,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &726905303
 PrefabInstance:
@@ -20937,8 +20797,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &730014285 stripped
 Transform:
@@ -21144,8 +21003,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &744842299 stripped
 Transform:
@@ -21333,8 +21191,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &751443293
 PrefabInstance:
@@ -21408,8 +21265,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &756211136 stripped
 Transform:
@@ -21585,8 +21441,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &761717967
 PrefabInstance:
@@ -21852,8 +21707,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &774240854 stripped
 Transform:
@@ -21933,8 +21787,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &776552254
 PrefabInstance:
@@ -22452,8 +22305,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &784964231 stripped
 Transform:
@@ -22641,8 +22493,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &791899182
 PrefabInstance:
@@ -22800,8 +22651,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &795438378
 PrefabInstance:
@@ -22875,8 +22725,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &796125217
 PrefabInstance:
@@ -23058,8 +22907,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &809066915 stripped
 Transform:
@@ -23139,8 +22987,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &809670664
 PrefabInstance:
@@ -23214,8 +23061,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &813487175 stripped
 Transform:
@@ -23372,7 +23218,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &827289066
 PrefabInstance:
@@ -23656,8 +23502,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &839612580 stripped
 Transform:
@@ -23743,8 +23588,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &841116812 stripped
 Transform:
@@ -23914,8 +23758,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &845974065 stripped
 Transform:
@@ -23995,8 +23838,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &849507002
 PrefabInstance:
@@ -24070,8 +23912,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &850577279 stripped
 Transform:
@@ -24151,8 +23992,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &854803100 stripped
 Transform:
@@ -24250,8 +24090,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &864735187 stripped
 Transform:
@@ -24331,8 +24170,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &876070420
 PrefabInstance:
@@ -24506,8 +24344,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &877559846
 PrefabInstance:
@@ -24671,8 +24508,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &880067886
 PrefabInstance:
@@ -24746,8 +24582,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &882892600
 PrefabInstance:
@@ -24821,8 +24656,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &883175498
 PrefabInstance:
@@ -24896,8 +24730,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &883832216
 PrefabInstance:
@@ -25169,8 +25002,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &891422541
 PrefabInstance:
@@ -25244,8 +25076,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &891703364
 PrefabInstance:
@@ -25394,8 +25225,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &899515877
 PrefabInstance:
@@ -25469,8 +25299,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &900851323 stripped
 Transform:
@@ -25724,8 +25553,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &909324973
 PrefabInstance:
@@ -25799,8 +25627,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &911747400 stripped
 Transform:
@@ -25982,8 +25809,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &926476411
 PrefabInstance:
@@ -26057,8 +25883,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &927217285 stripped
 Transform:
@@ -26138,8 +25963,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &932928292 stripped
 Transform:
@@ -26327,8 +26151,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &952511292 stripped
 Transform:
@@ -26408,8 +26231,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &956615568
 PrefabInstance:
@@ -26573,8 +26395,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &957372334
 PrefabInstance:
@@ -26648,8 +26469,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &957913704 stripped
 Transform:
@@ -26831,8 +26651,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &967370467
 PrefabInstance:
@@ -27086,8 +26905,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &975825131
 PrefabInstance:
@@ -27251,8 +27069,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &978894392
 PrefabInstance:
@@ -27326,8 +27143,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &978912097 stripped
 Transform:
@@ -27413,8 +27229,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &979989508
 PrefabInstance:
@@ -27572,8 +27387,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &982572837 stripped
 Transform:
@@ -27857,8 +27671,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &993875398
 PrefabInstance:
@@ -27932,8 +27745,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &994008333
 PrefabInstance:
@@ -28097,8 +27909,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &999767967
 PrefabInstance:
@@ -28262,8 +28073,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1002655875
 PrefabInstance:
@@ -28517,8 +28327,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1009110067 stripped
 Transform:
@@ -28598,8 +28407,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1010344577 stripped
 Transform:
@@ -28679,8 +28487,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1014101280
 PrefabInstance:
@@ -28754,8 +28561,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1018388455 stripped
 Transform:
@@ -28835,8 +28641,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1021318861
 PrefabInstance:
@@ -29372,8 +29177,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1032516671
 PrefabInstance:
@@ -29447,8 +29251,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1035169231 stripped
 Transform:
@@ -29528,8 +29331,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1035516176
 PrefabInstance:
@@ -29783,8 +29585,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1043594016 stripped
 Transform:
@@ -30017,7 +29818,7 @@ Transform:
   - {fileID: 372957895}
   - {fileID: 12444718}
   m_Father: {fileID: 0}
-  m_RootOrder: 21
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1051447100
 PrefabInstance:
@@ -30091,8 +29892,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1051662038
 PrefabInstance:
@@ -30213,7 +30013,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1054392213
 PrefabInstance:
@@ -30485,8 +30285,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1069535548 stripped
 Transform:
@@ -30661,8 +30460,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1072740654 stripped
 Transform:
@@ -30868,8 +30666,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1092975535 stripped
 Transform:
@@ -30955,8 +30752,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1100839754 stripped
 Transform:
@@ -31126,8 +30922,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1104382728 stripped
 Transform:
@@ -31294,6 +31089,32 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6494d957e2f12413faed3836aad6c425, type: 3}
+--- !u!1 &1110029106 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3270932272345889025, guid: 6494d957e2f12413faed3836aad6c425,
+    type: 3}
+  m_PrefabInstance: {fileID: 1110029105}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1110029107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1110029106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 1
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
 --- !u!1001 &1110458978
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31366,8 +31187,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1111274625
 PrefabInstance:
@@ -31537,8 +31357,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1121891514
 PrefabInstance:
@@ -31612,8 +31431,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1125181506 stripped
 Transform:
@@ -31693,8 +31511,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1127567149
 PrefabInstance:
@@ -31768,8 +31585,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1135067729
 PrefabInstance:
@@ -31843,8 +31659,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1138989134 stripped
 Transform:
@@ -31924,8 +31739,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1143958399
 PrefabInstance:
@@ -31999,8 +31813,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1144553855
 PrefabInstance:
@@ -32074,8 +31887,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1145454523 stripped
 Transform:
@@ -32359,8 +32171,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1165725194 stripped
 Transform:
@@ -32440,8 +32251,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1166584548 stripped
 Transform:
@@ -32527,8 +32337,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1169490560
 PrefabInstance:
@@ -32602,8 +32411,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1170299095
 PrefabInstance:
@@ -32779,8 +32587,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1182939063 stripped
 Transform:
@@ -32866,8 +32673,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1188078089
 PrefabInstance:
@@ -32941,8 +32747,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1188524291 stripped
 Transform:
@@ -33112,8 +32917,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1193946984 stripped
 Transform:
@@ -33193,8 +32997,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1195399597 stripped
 Transform:
@@ -33274,8 +33077,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1199444002
 PrefabInstance:
@@ -33349,8 +33151,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1199668683
 PrefabInstance:
@@ -33424,8 +33225,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1200333635 stripped
 Transform:
@@ -33505,8 +33305,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1202538994
 PrefabInstance:
@@ -33580,8 +33379,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1207908518 stripped
 Transform:
@@ -33661,8 +33459,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1214708296 stripped
 Transform:
@@ -34018,8 +33815,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1232001498 stripped
 Transform:
@@ -34105,8 +33901,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1243139720
 PrefabInstance:
@@ -34180,8 +33975,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1245558268
 PrefabInstance:
@@ -34255,8 +34049,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1249251406
 PrefabInstance:
@@ -34330,8 +34123,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1251149193
 PrefabInstance:
@@ -34771,8 +34563,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1268506623 stripped
 Transform:
@@ -34852,8 +34643,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1273145868
 PrefabInstance:
@@ -34927,8 +34717,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1278336771 stripped
 Transform:
@@ -35008,8 +34797,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1284139639
 PrefabInstance:
@@ -35083,8 +34871,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1285003415
 PrefabInstance:
@@ -35158,8 +34945,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1288374656 stripped
 Transform:
@@ -35245,8 +35031,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1291351626 stripped
 Transform:
@@ -35326,8 +35111,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1292196539 stripped
 Transform:
@@ -35593,8 +35377,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1299454934
 PrefabInstance:
@@ -35758,35 +35541,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
---- !u!1 &1300454433 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3270932272345889025, guid: 6494d957e2f12413faed3836aad6c425,
-    type: 3}
-  m_PrefabInstance: {fileID: 1110029105}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1300454435
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1300454433}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Version: 1
-  m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
-  m_LightLayerMask: 1
-  m_CustomShadowLayers: 0
-  m_ShadowLayerMask: 1
-  m_LightCookieSize: {x: 1, y: 1}
-  m_LightCookieOffset: {x: 0, y: 0}
 --- !u!4 &1302014315 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 260571418708903065, guid: 962cd43949a0a9749959796b01b6a784,
@@ -35906,6 +35662,32 @@ Light:
     type: 3}
   m_PrefabInstance: {fileID: 1315505986}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1315505988 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8791488512559450800, guid: 8cd2f4ad3ae032047aaaf5fe0254cb18,
+    type: 3}
+  m_PrefabInstance: {fileID: 1315505986}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1315505989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1315505988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 1
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
 --- !u!1001 &1317323565
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35978,8 +35760,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1317823556
 PrefabInstance:
@@ -36143,8 +35924,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1326092788
 PrefabInstance:
@@ -36218,8 +35998,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1327345286
 PrefabInstance:
@@ -36383,8 +36162,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1330318981
 PrefabInstance:
@@ -36458,8 +36236,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1336117956 stripped
 Transform:
@@ -36815,8 +36592,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1341085072
 PrefabInstance:
@@ -37070,8 +36846,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1347329267
 PrefabInstance:
@@ -37325,8 +37100,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1352717744 stripped
 Transform:
@@ -37490,8 +37264,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1360219200
 PrefabInstance:
@@ -37565,8 +37338,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1361989806 stripped
 Transform:
@@ -37670,8 +37442,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1374655788 stripped
 Transform:
@@ -37841,8 +37612,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1378075624 stripped
 Transform:
@@ -37922,8 +37692,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1385267458 stripped
 Transform:
@@ -38003,8 +37772,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1390366701 stripped
 Transform:
@@ -38084,8 +37852,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1394288201
 PrefabInstance:
@@ -38159,8 +37926,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1395692896 stripped
 Transform:
@@ -38277,8 +38043,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1398477421
 PrefabInstance:
@@ -38436,8 +38201,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1401497831
 PrefabInstance:
@@ -38685,8 +38449,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1405801552
 PrefabInstance:
@@ -38850,8 +38613,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1410998419
 PrefabInstance:
@@ -38925,8 +38687,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1412795265 stripped
 Transform:
@@ -39030,8 +38791,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1423182136 stripped
 Transform:
@@ -39111,8 +38871,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1423772256
 PrefabInstance:
@@ -39456,8 +39215,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1434890113 stripped
 Transform:
@@ -39537,8 +39295,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1436595280
 PrefabInstance:
@@ -39696,8 +39453,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1441696552
 PrefabInstance:
@@ -39861,8 +39617,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1445453958 stripped
 Transform:
@@ -39972,8 +39727,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1456317628
 PrefabInstance:
@@ -40245,8 +39999,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1483093786 stripped
 Transform:
@@ -40707,8 +40460,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1491532873
 PrefabInstance:
@@ -40878,8 +40630,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1501470241
 PrefabInstance:
@@ -40953,8 +40704,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1502302237
 PrefabInstance:
@@ -41028,8 +40778,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1504263549
 PrefabInstance:
@@ -41193,8 +40942,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1505076424
 PrefabInstance:
@@ -41268,8 +41016,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1505183359 stripped
 Transform:
@@ -41445,8 +41192,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1510185758 stripped
 Transform:
@@ -41622,8 +41368,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1519552035
 PrefabInstance:
@@ -41697,8 +41442,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1521175578
 PrefabInstance:
@@ -42015,8 +41759,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1528284941
 PrefabInstance:
@@ -42090,8 +41833,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1531550224
 PrefabInstance:
@@ -42255,8 +41997,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1539174565
 PrefabInstance:
@@ -42330,8 +42071,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1540494401
 PrefabInstance:
@@ -42585,8 +42325,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1549549642
 PrefabInstance:
@@ -42660,8 +42399,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1551817980 stripped
 Transform:
@@ -42741,8 +42479,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1556997028 stripped
 Transform:
@@ -42828,8 +42565,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1563724533
 PrefabInstance:
@@ -42993,8 +42729,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1567020435 stripped
 Transform:
@@ -43086,8 +42821,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1568999173
 PrefabInstance:
@@ -43161,8 +42895,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1569748010
 PrefabInstance:
@@ -43506,8 +43239,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1575208147 stripped
 Transform:
@@ -43587,8 +43319,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1581056791 stripped
 Transform:
@@ -43668,8 +43399,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1584542685
 PrefabInstance:
@@ -43743,8 +43473,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1585649511
 PrefabInstance:
@@ -43992,8 +43721,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1587190859 stripped
 Transform:
@@ -44259,8 +43987,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1594599527
 PrefabInstance:
@@ -44334,8 +44061,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1597434565 stripped
 Transform:
@@ -44415,8 +44141,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1599100891
 PrefabInstance:
@@ -44490,8 +44215,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1604374480
 PrefabInstance:
@@ -44655,8 +44379,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1604838201
 PrefabInstance:
@@ -44730,35 +44453,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
---- !u!1 &1605087957 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8791488512559450800, guid: 8cd2f4ad3ae032047aaaf5fe0254cb18,
-    type: 3}
-  m_PrefabInstance: {fileID: 1315505986}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1605087958
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1605087957}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Version: 1
-  m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
-  m_LightLayerMask: 1
-  m_CustomShadowLayers: 0
-  m_ShadowLayerMask: 1
-  m_LightCookieSize: {x: 1, y: 1}
-  m_LightCookieOffset: {x: 0, y: 0}
 --- !u!1001 &1610282862
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -44831,8 +44527,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1618508714
 PrefabInstance:
@@ -44906,8 +44601,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1618511763
 PrefabInstance:
@@ -45071,8 +44765,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1620442685 stripped
 Transform:
@@ -45152,8 +44845,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1623226638
 PrefabInstance:
@@ -45317,8 +45009,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1626220310
 PrefabInstance:
@@ -45512,8 +45203,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1639208859
 PrefabInstance:
@@ -45587,8 +45277,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1644187294
 PrefabInstance:
@@ -45752,8 +45441,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1652253031 stripped
 Transform:
@@ -45941,8 +45629,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1660234170
 PrefabInstance:
@@ -46016,8 +45703,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1668288404
 PrefabInstance:
@@ -46367,8 +46053,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1680645229
 PrefabInstance:
@@ -46442,8 +46127,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1681303442
 PrefabInstance:
@@ -46517,8 +46201,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1681689907
 PrefabInstance:
@@ -46592,8 +46275,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1682975693
 PrefabInstance:
@@ -46667,8 +46349,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1683444037 stripped
 Transform:
@@ -46748,8 +46429,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1688668703
 PrefabInstance:
@@ -47009,8 +46689,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1694371023 stripped
 Transform:
@@ -47096,8 +46775,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1705740128
 PrefabInstance:
@@ -47441,9 +47119,82 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+--- !u!1001 &1714848365
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 63937395ff7a888419d4b8fe450d3c91,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 63937395ff7a888419d4b8fe450d3c91,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -140.66647
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 63937395ff7a888419d4b8fe450d3c91,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.3045216
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 63937395ff7a888419d4b8fe450d3c91,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -326.57782
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 63937395ff7a888419d4b8fe450d3c91,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 63937395ff7a888419d4b8fe450d3c91,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 63937395ff7a888419d4b8fe450d3c91,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 63937395ff7a888419d4b8fe450d3c91,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 63937395ff7a888419d4b8fe450d3c91,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 63937395ff7a888419d4b8fe450d3c91,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 63937395ff7a888419d4b8fe450d3c91,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63937395ff7a888419d4b8fe450d3c91,
+        type: 3}
+      propertyPath: m_Name
+      value: SlimeCritter_Rig
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 63937395ff7a888419d4b8fe450d3c91,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 4a56ed1b5c13c544c8a4e238c15808ba, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 63937395ff7a888419d4b8fe450d3c91, type: 3}
 --- !u!4 &1715052902 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3922666847581813932, guid: a5e621f760ab3254380c8e2027c63d35,
@@ -47648,8 +47399,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1735753752
 PrefabInstance:
@@ -47723,8 +47473,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1736367217
 PrefabInstance:
@@ -47798,8 +47547,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1739527668 stripped
 Transform:
@@ -47879,8 +47627,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1741102242
 PrefabInstance:
@@ -47954,8 +47701,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1741666713
 PrefabInstance:
@@ -48029,8 +47775,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1744639468
 PrefabInstance:
@@ -48194,8 +47939,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1747068642
 PrefabInstance:
@@ -48353,8 +48097,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1748292550 stripped
 Transform:
@@ -48614,8 +48357,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1755052357 stripped
 Transform:
@@ -48701,8 +48443,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1758582813 stripped
 Transform:
@@ -48794,8 +48535,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1770283619
 PrefabInstance:
@@ -49061,8 +48801,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1786427886
 PrefabInstance:
@@ -49304,8 +49043,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1790162583 stripped
 Transform:
@@ -49487,8 +49225,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1797376428
 PrefabInstance:
@@ -49562,8 +49299,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1799257311
 PrefabInstance:
@@ -49637,8 +49373,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1804868646
 PrefabInstance:
@@ -49808,8 +49543,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1809211938
 PrefabInstance:
@@ -50063,8 +49797,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1817304836
 PrefabInstance:
@@ -50258,8 +49991,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1842811644 stripped
 Transform:
@@ -50345,8 +50077,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1848667822 stripped
 Transform:
@@ -50426,8 +50157,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1849263857
 PrefabInstance:
@@ -50681,8 +50411,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1855771977
 PrefabInstance:
@@ -50756,8 +50485,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1858234841
 PrefabInstance:
@@ -50831,8 +50559,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1858280540
 PrefabInstance:
@@ -50906,8 +50633,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1865912787 stripped
 Transform:
@@ -50999,8 +50725,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1868540054 stripped
 Transform:
@@ -51176,8 +50901,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1879954196
 PrefabInstance:
@@ -51251,8 +50975,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1882534008 stripped
 Transform:
@@ -51344,8 +51067,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1888224692
 PrefabInstance:
@@ -51419,8 +51141,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1888339864
 PrefabInstance:
@@ -51614,8 +51335,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1895810296
 PrefabInstance:
@@ -51689,8 +51409,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1897870215
 PrefabInstance:
@@ -51764,8 +51483,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1898550943 stripped
 Transform:
@@ -52043,8 +51761,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1914905381
 PrefabInstance:
@@ -52202,8 +51919,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1922756490 stripped
 Transform:
@@ -52283,8 +51999,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1927413844
 PrefabInstance:
@@ -52358,8 +52073,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1931298317
 PrefabInstance:
@@ -52433,8 +52147,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1933072529
 PrefabInstance:
@@ -52508,8 +52221,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1934284367 stripped
 Transform:
@@ -52895,8 +52607,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1966562192 stripped
 Transform:
@@ -53066,8 +52777,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1972312190
 PrefabInstance:
@@ -53345,8 +53055,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1978331913 stripped
 Transform:
@@ -53528,8 +53237,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1992629970
 PrefabInstance:
@@ -53603,8 +53311,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1995809667
 PrefabInstance:
@@ -53678,8 +53385,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1996349463
 PrefabInstance:
@@ -53753,8 +53459,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1996464259
 PrefabInstance:
@@ -53828,8 +53533,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1997916382
 PrefabInstance:
@@ -53903,8 +53607,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &1999592208 stripped
 Transform:
@@ -53996,8 +53699,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2007811587
 PrefabInstance:
@@ -54071,8 +53773,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2009261381
 PrefabInstance:
@@ -54146,8 +53847,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &2011575478 stripped
 Transform:
@@ -54227,8 +53927,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2013567351
 PrefabInstance:
@@ -54302,8 +54001,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2016108916
 PrefabInstance:
@@ -54377,8 +54075,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &2017482615 stripped
 Transform:
@@ -54458,8 +54155,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2020703376
 PrefabInstance:
@@ -54719,8 +54415,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2034393149
 PrefabInstance:
@@ -54794,8 +54489,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &2035224586 stripped
 Transform:
@@ -54959,8 +54653,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &2038058750 stripped
 Transform:
@@ -55040,8 +54733,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2042094522
 PrefabInstance:
@@ -55115,8 +54807,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &2042317325 stripped
 Transform:
@@ -55214,8 +54905,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2048627417
 PrefabInstance:
@@ -55571,8 +55261,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2067440653
 PrefabInstance:
@@ -55646,8 +55335,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2072742867
 PrefabInstance:
@@ -55817,8 +55505,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2076382747
 PrefabInstance:
@@ -55892,8 +55579,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2077477708
 PrefabInstance:
@@ -55967,8 +55653,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &2080533648 stripped
 Transform:
@@ -56048,8 +55733,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2081483463
 PrefabInstance:
@@ -56219,8 +55903,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &2088608097 stripped
 Transform:
@@ -56306,8 +55989,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &2093059244 stripped
 Transform:
@@ -56393,8 +56075,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2102088667
 PrefabInstance:
@@ -56558,8 +56239,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &2102740769 stripped
 Transform:
@@ -56639,8 +56319,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2106339880
 PrefabInstance:
@@ -56804,8 +56483,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2108850129
 PrefabInstance:
@@ -56879,8 +56557,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2113933648
 PrefabInstance:
@@ -57134,8 +56811,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &2118469325 stripped
 Transform:
@@ -57215,8 +56891,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &2120474239 stripped
 Transform:
@@ -57364,17 +57039,17 @@ PrefabInstance:
     - target: {fileID: 5540501665159811850, guid: 3b5498e27a52ce243b2ce35ba305d864,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -58.113556
+      value: -58.268894
       objectReference: {fileID: 0}
     - target: {fileID: 5540501665159811850, guid: 3b5498e27a52ce243b2ce35ba305d864,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.2563615
+      value: -5.316613
       objectReference: {fileID: 0}
     - target: {fileID: 5540501665159811850, guid: 3b5498e27a52ce243b2ce35ba305d864,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -370.70892
+      value: -369.79337
       objectReference: {fileID: 0}
     - target: {fileID: 5540501665159811850, guid: 3b5498e27a52ce243b2ce35ba305d864,
         type: 3}
@@ -57581,8 +57256,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!4 &2138020963 stripped
 Transform:
@@ -57842,8 +57516,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2144037672
 PrefabInstance:
@@ -57917,8 +57590,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &2147119789
 PrefabInstance:
@@ -57992,8 +57664,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bamboo(Polybrush Clone)
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4976311840172116729, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 962cd43949a0a9749959796b01b6a784, type: 3}
 --- !u!1001 &1502498153912954282
 PrefabInstance:

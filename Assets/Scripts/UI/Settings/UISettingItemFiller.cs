@@ -23,7 +23,7 @@ public class UISettingItemFiller : MonoBehaviour
 	[SerializeField] private Sprite _bgSelected = default;
 	[SerializeField] private Sprite _bgUnselected = default;
 
-	 private SettingFieldType _fieldType = default;
+	private SettingFieldType _fieldType = default;
 
 
 	public event UnityAction _nextOption = delegate { };

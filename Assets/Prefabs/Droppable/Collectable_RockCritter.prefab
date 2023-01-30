@@ -73,6 +73,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Collectable_RockCritter
       objectReference: {fileID: 0}
+    - target: {fileID: 4270174685982397033, guid: 0f60adbc96570cb4e9898a0409956f1d,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4270174685982397033, guid: 0f60adbc96570cb4e9898a0409956f1d,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 1009
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301236826201519967, guid: 0f60adbc96570cb4e9898a0409956f1d,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8771591340145584393, guid: 0f60adbc96570cb4e9898a0409956f1d,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f60adbc96570cb4e9898a0409956f1d, type: 3}
 --- !u!4 &4778863221402171844 stripped
@@ -92,6 +112,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 39c4f10d38fdc744e932e20b293735b8,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 39c4f10d38fdc744e932e20b293735b8,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 39c4f10d38fdc744e932e20b293735b8,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 39c4f10d38fdc744e932e20b293735b8,
         type: 3}
@@ -142,6 +177,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 39c4f10d38fdc744e932e20b293735b8,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 39c4f10d38fdc744e932e20b293735b8,
         type: 3}

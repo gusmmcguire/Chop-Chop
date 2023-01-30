@@ -1711,7 +1711,7 @@ PrefabInstance:
     - target: {fileID: 2955398947125553842, guid: 45632f0a227c860489bcba0eb1f4ec3e,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.15606438
+      value: 0.15606436
       objectReference: {fileID: 0}
     - target: {fileID: 2955398947125553842, guid: 45632f0a227c860489bcba0eb1f4ec3e,
         type: 3}
@@ -48070,6 +48070,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1328499219}
     m_Modifications:
+    - target: {fileID: 3327964122266598900, guid: 9f7b0cb7955c190418da560e89736c38,
+        type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5224987954583862020, guid: 9f7b0cb7955c190418da560e89736c38,
+        type: 3}
+      propertyPath: _droppableRewardSO
+      value: 
+      objectReference: {fileID: 11400000, guid: c2d8762b390cef447abf6a96331bc219,
+        type: 2}
     - target: {fileID: 8221149608678237085, guid: 9f7b0cb7955c190418da560e89736c38,
         type: 3}
       propertyPath: m_RootOrder

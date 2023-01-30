@@ -10,17 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 64cbe6eac594d2847ab007f73118655a, type: 3}
-  m_Name: BasicRewards
+  m_Name: BasicRewardsPlantCritter
   m_EditorClassIdentifier: 
   _scatteringDistance: 1.5
   _dropGroups:
   - _drops:
     - _item: {fileID: 11400000, guid: 42396f680e5649c4b91e2b29ff34f811, type: 2}
-      _itemDropRate: 0.5
-    - _item: {fileID: 11400000, guid: 42396f680e5649c4b91e2b29ff34f811, type: 2}
-      _itemDropRate: 0.5
+      _itemDropRate: 1
     _dropRate: 1
   - _drops:
     - _item: {fileID: 11400000, guid: dfda8fd036fda44f29d67f1f214567d6, type: 2}
+      _itemDropRate: 1
+    _dropRate: 0.5
+  - _drops:
+    - _item: {fileID: 11400000, guid: 7a6557abb46da48458da1572c9022163, type: 2}
+      _itemDropRate: 1
+    - _item: {fileID: 11400000, guid: 42396f680e5649c4b91e2b29ff34f811, type: 2}
       _itemDropRate: 1
     _dropRate: 0.2

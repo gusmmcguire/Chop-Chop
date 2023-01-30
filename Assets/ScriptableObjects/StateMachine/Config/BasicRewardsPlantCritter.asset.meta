@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/ScriptableObjects/StateMachine/Config/BasicRewardsPlantCritter.asset.meta
 guid: c2d8762b390cef447abf6a96331bc219
 NativeFormatImporter:
+========
+guid: 9ac3277abb0a0db479db24eedcdb603b
+PrefabImporter:
+>>>>>>>> c1128dc763b61ede442c2618307eb626e8e64fc8:Assets/Prefabs/BeachToMainMenu.prefab.meta
   externalObjects: {}
   mainObjectFileID: 11400000
   userData: 

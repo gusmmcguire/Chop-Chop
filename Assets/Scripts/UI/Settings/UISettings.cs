@@ -80,11 +80,18 @@ public class UISettings : MonoBehaviour
 		_settingTabFiller.FillTabs(settingTabsList);
 	}
 
-	void SelectTab(SettingTabType selectedTab)
+	public void SelectTab(SettingTabType selectedTab)
 	{
 		_settingTabFiller.SelectTab(selectedTab);
 		SetFields(selectedTab);
 	}
+
+	public void SelectTab(int selectedTab)
+	{
+		SelectTab(settingTabsList[selectedTab].settingTabsType);
+		
+	}
+
 
 	void SetFields(SettingTabType selectedTab)
 	{

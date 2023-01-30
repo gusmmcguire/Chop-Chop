@@ -271,7 +271,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 47013255079387136
-    m_Localized: 'Can you please slay some Slimes and bring me 3 eggs? '
+    m_Localized: 'Can you please slay this Slime and bring me an egg? '
     m_Metadata:
       m_Items: []
   - m_Id: 238002471034881

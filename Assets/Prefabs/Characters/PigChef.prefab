@@ -4439,7 +4439,7 @@ MonoBehaviour:
   _getHitEffectSO: {fileID: 11400000, guid: 670b8ed8d060e674aa8c90b1187ea592, type: 2}
   _mainMeshRenderer: {fileID: 2643181883930254223}
   _droppableRewardSO: {fileID: 11400000, guid: f155590e3f62ce94ea050caa8fd5403e, type: 2}
-  _currentHealth: 0
+  _currentHealth: 60
 --- !u!114 &3326384532942868502
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5556,6 +5556,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9130883735269968256, guid: 8f80078235ba241aaa576eba63c44a25,
+        type: 3}
+      propertyPath: damageableScript
+      value: 
+      objectReference: {fileID: 2879436914502920953}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8f80078235ba241aaa576eba63c44a25, type: 3}
 --- !u!224 &7178191462410231551 stripped

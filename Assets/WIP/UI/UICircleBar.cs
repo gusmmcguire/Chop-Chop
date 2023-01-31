@@ -20,7 +20,7 @@ public class UICircleBar : MonoBehaviour
 	{
 		if (damageableScript == null)
 		{
-			maxHealth = 20;
+			maxHealth = 60;
 			currentHealth = maxHealth;
 		}
 		else

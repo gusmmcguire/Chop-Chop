@@ -19,7 +19,7 @@ MonoBehaviour:
       _itemDropRate: 1
     _dropRate: 1
   - _drops:
-    - _item: {fileID: 11400000, guid: dfda8fd036fda44f29d67f1f214567d6, type: 2}
+    - _item: {fileID: 11400000, guid: 46e53fbab0dda4af3aefacf845effa7f, type: 2}
       _itemDropRate: 1
     _dropRate: 0.5
   - _drops:
